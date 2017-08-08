@@ -180,7 +180,7 @@ background-color: #f1f1f1;
     
     }
 .img-banner {
-    background-image: url(exmarket.JPG);
+    background-image: url(exmarket.jpg);
     backgroundund-position: 100% 100%;
     background-size: cover;
      height: 550px;
@@ -191,7 +191,7 @@ background-color: #f1f1f1;
     }
  @media only screen and (max-width: 500px) {
 	.img-banner {
-    background-image: url(exmarket.JPG);
+    background-image: url(exmarket.jpg);
     background-size: contain;
     background-repeat: no-repeat;
      height: 240px;
